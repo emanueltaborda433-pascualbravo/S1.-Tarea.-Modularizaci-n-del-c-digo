@@ -1,1 +1,1 @@
-# S1.-Tarea.-Modularizaci-n-del-c-digo
+En este trabajo se pidio mejorar el codigo realizado previamente el cual era para una tienda pero ahora se pidieron mejorias respecto al mismo a continuación se vera un documento detallado con las mejorias y el codigo cpp.
